@@ -32,5 +32,6 @@ public class Main {
         FitnessApp.displayWorkoutPlans(plan1, plan2);
         FitnessApp.compareWorkoutDurations(plan1, plan2);
         FitnessApp.updateUserInfo(user1, user2);
+        System.out.print("qw");
     }
 }
