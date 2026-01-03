@@ -19,7 +19,6 @@ public class FitnessApp {
         user1.setAge(26);
         user2.setName("Mike");
 
-        // Вывод обновленных данных
         System.out.println("\nUpdated User Information:");
         user1.showinfo();
         user2.showinfo();
