@@ -18,7 +18,6 @@ public class FitnessApp {
     public static void updateUserInfo(User user1, User user2) {
         user1.setAge(26);
         user2.setName("Mike");
-
         System.out.println("\nUpdated User Information:");
         user1.showinfo();
         user2.showinfo();

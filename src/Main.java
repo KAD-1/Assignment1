@@ -33,5 +33,4 @@ public class Main {
         FitnessApp.compareWorkoutDurations(plan1, plan2);
         FitnessApp.updateUserInfo(user1, user2);
     }
-
 }
