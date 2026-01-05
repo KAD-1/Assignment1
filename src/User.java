@@ -19,7 +19,7 @@ public class User {
 
     protected String getValues() { return name + ", " + age; }
 
-    public String showinfo() { return "Name:" + name + " Age:" + age; }
+    public String showinfo() { return "Name:щ" + name + " Age:" + age; }
 
     @Override
     public String toString() {
